@@ -1,4 +1,4 @@
-# Country-from-IP-Lookup
+# country-from-IP-lookup
 Enter an IP address and find the country that IP is registered in.
 
 Data is provided by The JSON Geolocation web service API by https://www.geoplugin.com/.
